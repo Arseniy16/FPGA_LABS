@@ -1,1 +1,0 @@
-iverilog clkdiv.v tb.v top.v -o .wave
