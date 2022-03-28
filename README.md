@@ -9,3 +9,19 @@ This is repository for labs in the FPGA course at MIPT
 
 Выполненное задание смотреть здесь: [Lab_01](https://github.com/Arseniy16/FPGA_LABS/tree/master/Lab_01)
 
+## Lab №2
+### Verilog триггеры.
+
+Необходимо описать на языке Verilog:
+
+1. SR-Latch, причем описать необходимо с помощью комбинационных элементов.
+
+2. D-Latch, причем описать необходимо с помощью комбинационных элементов и подключить SR-Latch.
+
+3. D-Flip-Flop, причем описать необходимо с помощью комбинационных элементов и подключить D-Latch.
+
+4. Написать TestBench для каждой схемы.
+
+5. Прикрепить временную диаграмму для каждой схемы.
+
+Выполненное задание смотреть здесь: [Lab_02](https://github.com/Arseniy16/FPGA_LABS/tree/master/Lab_02)
